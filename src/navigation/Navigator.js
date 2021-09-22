@@ -13,7 +13,7 @@ const Stack = createNativeStackNavigator();
 let homeOptions = (
 	{
 		title: 'homes',
-		headerTitleStyle: { color: 'red', fontFamily: 'open-boldG', fontSize: 26 },
+		headerTitleStyle: { color: 'red', fontFamily: 'Bold', fontSize: 26 },
 		headerStyle: { backgroundColor: '#000' },
 	}
 )

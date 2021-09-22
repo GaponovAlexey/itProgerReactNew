@@ -13,7 +13,7 @@ export const gStyle = StyleSheet.create({
 	title: {
 		fontSize: 28,
 		color: '#333',
-		fontFamily: 'open-boldG',
+		fontFamily: 'open-bold',
 		color: '#2f9',
 		textAlign: 'center',
 		backgroundColor: '#eee',
